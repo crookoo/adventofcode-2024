@@ -11,3 +11,4 @@ Example: ```node solution``` to execute solution.js in the same directory.
 |---|:---:|:---:|
 | [Day 1: Historian Hysteria](https://github.com/crookoo/adventofcode-2024/tree/main/day01)| ⭐ | ⭐ |
 | [Day 3: Mull It Over](https://github.com/crookoo/adventofcode-2024/tree/main/day03)| ⭐ | ⭐ |
+| [Day 4: Ceres Search](https://github.com/crookoo/adventofcode-2024/tree/main/day04)| ⭐ | ⭐ |
